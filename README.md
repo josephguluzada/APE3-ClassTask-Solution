@@ -1,7 +1,6 @@
 # APE3-ClassTask-Solution
 
 # Task 1:
-============
 Room class
 ============
 - Id - qıraqdan set etmək olmayacaq yalnız get etmək olacaq və hər dəfə yeni bir Room obyekt yaradıldıqda avtomatik bir vahid artacaq.
