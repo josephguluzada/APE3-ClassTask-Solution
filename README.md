@@ -1,7 +1,6 @@
 # APE3-ClassTask-Solution
 
 # Task 1:
-
 ============
 Room class
 ============
